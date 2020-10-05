@@ -7,8 +7,8 @@ dial_book = {
   "miami" => "305",
   "paloalto" => "650",
   "evanston" => "847",
-  "orlando" => "407",
-  "lancaster" => "717"
+  "orlando" => "405",
+  "lancaster" => "727"
 }
 #get city name from hash
 def get_city_name(myhash)

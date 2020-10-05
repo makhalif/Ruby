@@ -5,10 +5,10 @@ puts a.pop
 
 y = ("a".."z").to_a
 #print y
-b = y.join("-")
+b = y.join("_")
 print b
 puts
-c = b.split("-")
+c = b.split("_")
 print c
 puts
 

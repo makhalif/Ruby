@@ -1,4 +1,4 @@
-puts("What is your name?\n")
+puts("What is your name?!\n")
   fname = gets.chomp
 print ("what is your last name?\n")
   lname = gets.chomp
